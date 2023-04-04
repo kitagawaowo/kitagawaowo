@@ -6,7 +6,7 @@ Mi nombre es [Tu nombre], soy un [tu profesión] apasionado por la tecnología y
 
 ## Contribuciones y Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[tu nombre de usuario]&show_icons=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kitagawaowo&show_icons=true&count_private=true)
 
 Durante mi tiempo en GitHub, he contribuido en varios proyectos y he hecho [número de commits] commits. Aquí te muestro un resumen de mis contribuciones:
 
@@ -16,7 +16,7 @@ Durante mi tiempo en GitHub, he contribuido en varios proyectos y he hecho [núm
 
 ## Habilidades y Tecnologías
 
-![Habilidades y Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu nombre de usuario]&layout=compact&hide=html)
+![Habilidades y Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=kitagawaowo&layout=compact&hide=html)
 
 Durante mi carrera he adquirido habilidades y experiencia en las siguientes tecnologías:
 
