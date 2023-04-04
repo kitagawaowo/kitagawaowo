@@ -1,52 +1,34 @@
-<h1 align="center">Bienvenido a mi perfil de GitHub</h1>
+# Bienvenidos a mi perfil de GitHub
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tunombre?label=Follow&style=social" alt="GitHub Follow" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome" />
-</p>
+![Animated Hello](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-<p align="center">
-  Soy un desarrollador apasionado por la tecnología, con experiencia en desarrollo web y móvil. Siempre estoy en busca de nuevos desafíos y de aprender cosas nuevas.
-</p>
+Mi nombre es [Tu nombre], soy un [tu profesión] apasionado por la tecnología y el desarrollo de software.
 
-## Habilidades
+## Contribuciones y Estadísticas
 
-* Kotlin
-* Java
-* Python
-* HTML/CSS/JS
-* React
-* Angular
-* Node.js
-* MongoDB
-* MySQL
-* Git
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[tu nombre de usuario]&show_icons=true&count_private=true)
 
-## Proyectos Destacados
+Durante mi tiempo en GitHub, he contribuido en varios proyectos y he hecho [número de commits] commits. Aquí te muestro un resumen de mis contribuciones:
 
-### Mi Proyecto Increíble
+- [Nombre del proyecto 1](enlace al proyecto): [número de commits] commits
+- [Nombre del proyecto 2](enlace al proyecto): [número de commits] commits
+- [Nombre del proyecto 3](enlace al proyecto): [número de commits] commits
 
-Descripción de mi proyecto increíble.
+## Habilidades y Tecnologías
 
-#### Tecnologías Utilizadas
+![Habilidades y Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu nombre de usuario]&layout=compact&hide=html)
 
-* Kotlin
-* React
-* Node.js
-* MongoDB
+Durante mi carrera he adquirido habilidades y experiencia en las siguientes tecnologías:
 
-#### Enlace al Repositorio
-
-[Enlace al Repositorio](https://github.com/tunombre/mi-proyecto-increible)
+- Lenguajes de programación: [lista de lenguajes]
+- Frameworks: [lista de frameworks]
+- Herramientas de desarrollo: [lista de herramientas]
 
 ## Contacto
 
-Si deseas contactarme, puedes enviarme un correo electrónico a mi dirección de correo electrónico o seguirme en Twitter.
+Si estás interesado en conocer más sobre mi trabajo o contactarme, puedes hacerlo a través de las siguientes redes sociales:
 
-* Correo electrónico: tunombre@gmail.com
-* Twitter: [@tunombre](https://twitter.com/tunombre)
+- [LinkedIn](enlace a tu perfil de LinkedIn)
+- [Twitter](enlace a tu perfil de Twitter)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
+Gracias por visitar mi perfil de GitHub. ¡Que tengas un buen día! :smile:
