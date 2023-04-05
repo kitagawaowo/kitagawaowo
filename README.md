@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hola, soy Natalia!</h2>
+<h2 align="center">👋 Hola, soy Zen!</h2>
 
 <p align="center">
   <a href="https://github.com/kitagawaowo"><img src="https://img.shields.io/github/followers/kitagawaowo.svg?label=GitHub&style=social" alt="GitHub"></a>
